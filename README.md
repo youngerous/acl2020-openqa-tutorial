@@ -66,12 +66,13 @@ Vladimir Karpukhin, Barlas Oğuz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey Ed
 We understand this is a long reading list :) In case you wonder where you should start with, we plan to discuss the papers in bold in depth during our tutorial.
 
 ### Latest work (2021+, partially updated)
-1. [You Only Need One Model for Open-domain Question Answering](https://arxiv.org/pdf/2112.07381.pdf). Haejun Lee, Akhil Kedia, Jongwon Lee, Ashwin Paranjape, Christoper D. Manning, Kyoung-Gu Woo. Preprint 2021.
 1. [The 3rd Workshop on Machine Reading for Question Answering](https://mrqa.github.io/#program). EMNLP 2021.
 1. [Evaluation Paradigms in Question Answering](https://aclanthology.org/2021.emnlp-main.758.pdf). Pedro Rodriguez and Jordan Boyd-Graber. EMNLP 2021.
 1. [Joint Passage Ranking for Diverse Multi-Answer Retrieval](https://arxiv.org/abs/2104.08445). Sewon Min, Kenton Lee, Ming-Wei Chang, Kristina Toutanova, Hannaneh Hajishirzi. EMNLP 2021.
 1. [SituatedQA: Incorporating Extra-Linguistic Contexts into QA](https://aclanthology.org/2021.emnlp-main.586.pdf). Michael J.Q. Zhang and Eunsol Choi. EMNLP 2021 (_Outstanding Paper_).
 1. [Distantly-Supervised Evidence Retrieval Enables Question Answering without Evidence Annotation](https://arxiv.org/pdf/2110.04889.pdf). EMNLP 2021.
+1. [You Only Need One Model for Open-domain Question Answering](https://arxiv.org/pdf/2112.07381.pdf). Haejun Lee, Akhil Kedia, Jongwon Lee, Ashwin Paranjape, Christoper D. Manning, Kyoung-Gu Woo. Preprint 2021.
+1. [Evidentiality-guided Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2112.08688.pdf). Akari Asai*, Matt Gardner*, Hannaneh Hajishirzi. Preprint 2021.
 
 ### Libraries
 1. [Billion-scale similarity search with GPUs](https://arxiv.org/abs/1702.08734) (a.k.a. faiss).
