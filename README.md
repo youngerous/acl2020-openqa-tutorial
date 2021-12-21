@@ -65,7 +65,8 @@ Vladimir Karpukhin, Barlas Oğuz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey Ed
 
 We understand this is a long reading list :) In case you wonder where you should start with, we plan to discuss the papers in bold in depth during our tutorial.
 
-### Latest work (2021+, partially updated)
+### Latest work (2020+, partially updated)
+1. [AmbigQA: Answering Ambiguous Open-domain Questions](https://arxiv.org/pdf/2004.10645.pdf). Sewon Min, Julian Michael, Hannaneh Hajishirzi, Luke Zettlemoyer. EMNLP 2020.
 1. [The 3rd Workshop on Machine Reading for Question Answering](https://mrqa.github.io/#program). EMNLP 2021.
 1. [Evaluation Paradigms in Question Answering](https://aclanthology.org/2021.emnlp-main.758.pdf). Pedro Rodriguez and Jordan Boyd-Graber. EMNLP 2021.
 1. [Joint Passage Ranking for Diverse Multi-Answer Retrieval](https://arxiv.org/abs/2104.08445). Sewon Min, Kenton Lee, Ming-Wei Chang, Kristina Toutanova, Hannaneh Hajishirzi. EMNLP 2021.
