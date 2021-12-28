@@ -75,5 +75,6 @@ We understand this is a long reading list :) In case you wonder where you should
 1. [You Only Need One Model for Open-domain Question Answering](https://arxiv.org/pdf/2112.07381.pdf). Haejun Lee, Akhil Kedia, Jongwon Lee, Ashwin Paranjape, Christoper D. Manning, Kyoung-Gu Woo. Preprint 2021.
 1. [Evidentiality-guided Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2112.08688.pdf). Akari Asai*, Matt Gardner*, Hannaneh Hajishirzi. Preprint 2021.
 
-### Libraries
+### Miscellaneous
 1. [Billion-scale similarity search with GPUs](https://arxiv.org/abs/1702.08734) (a.k.a. faiss).
+1. [Lilian Weng - How to Build an Open-Domain Question Answering System?](https://lilianweng.github.io/lil-log/2020/10/29/open-domain-question-answering.html)
